@@ -1,0 +1,7 @@
+Django
+django-redis
+redis
+psycopg2-binary
+celery
+gunicorn
+uvicorn[standard]
